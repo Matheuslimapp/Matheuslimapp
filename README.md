@@ -25,7 +25,7 @@ Sou um entusiasta de tecnologia apaixonado por programação e sempre em busca d
 <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuslimapp&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslimapp&layout=compact&theme=tokyonight)  
+ 
 
 </div>
 
